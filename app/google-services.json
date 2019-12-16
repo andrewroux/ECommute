@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "436825714656",
+    "firebase_url": "https://ecommute-bce0e.firebaseio.com",
+    "project_id": "ecommute-bce0e",
+    "storage_bucket": "ecommute-bce0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436825714656:android:202d1650fa30aac9",
+        "android_client_info": {
+          "package_name": "com.andrew.ecommute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436825714656-bt1bibuij4ioabsko2ujp6l2p7dn1t5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrew.ecommute",
+            "certificate_hash": "29a007d109a37742de146accd8eb71d1c642ea7e"
+          }
+        },
+        {
+          "client_id": "436825714656-q9drl3a2im59fke6v4ouvpq9ovcfgarv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD060l7jho1cv8vd9sT6h5kccV4-KMuJGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436825714656-q9drl3a2im59fke6v4ouvpq9ovcfgarv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
